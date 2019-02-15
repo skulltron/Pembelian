@@ -1,1 +1,1 @@
-Pembelian
+Aplikasi Pembelian Berbasis Web
